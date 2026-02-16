@@ -1,0 +1,11 @@
+{
+  "name": "Yap2 Chat",
+  "short_name": "Yap2",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f1720",
+  "theme_color": "#0a0a0a",
+  "icons": [
+    { "src": "/favicon-192.png", "sizes": "192x192", "type": "image/png" }
+  ]
+}
